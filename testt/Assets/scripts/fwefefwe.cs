@@ -5,7 +5,7 @@ public class fwefefwe : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+	hghghgh
 	}
 	
 	// Update is called once per frame
